@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+
+}
+.container{
+  text-align: center;
+  background-color: black;
+  color: bisque;
+}
+.input-container{
+  padding: 15px;
+  
+}
+.name{
+  margin-left: 15px;
+}
