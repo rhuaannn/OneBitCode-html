@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    
+}body{
+    background-color: darkcyan;
+}
+.navbar{
+    text-align: center;
+    align-items: center;
+    color:white
+}
+.semanas{
+    color: yellow;
+}
+.semanas-ul{
+    margin-left: 50px;
+    color:white;
+}
+.segunda{
+    color: black;
+    background-color: yellow;
+}
+.segunda-ul{
+    margin-left: 50px;
+    color: white;
+}
+.terca{
+    color: black;
+    background-color: yellow;
+}
+.terca-ul{
+    color: white;
+    margin-left: 50px;
+}
+.terca-li{
+    color: red;
+}
+.quarta{
+    background-color: yellow;
+}
+.quarta-ul{
+    color: white;
+    margin-left: 50px;
+}
+.quarta-li{
+    color: red;
+}

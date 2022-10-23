@@ -1,0 +1,19 @@
+h1{
+  font-family: 'Fasthand', cursive;
+}
+.container{
+  margin: 0px auto 0px auto;
+  width: 70%;
+  height: 100%;
+  padding: 0px;
+}
+ .date{
+  padding: 0px;
+  margin-top: 50px;
+  color: aqua;
+}
+p {
+margin-left: 50px;
+padding: 10px; 
+font-family: 'Courier New', Courier, monospace;
+}
